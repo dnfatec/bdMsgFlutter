@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "297920629889",
+    "project_id": "bdmest2",
+    "storage_bucket": "bdmest2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297920629889:android:ecf6676c4d495a6a64d180",
+        "android_client_info": {
+          "package_name": "com.example.flutter_app_bdm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "297920629889-4qk5m22grn5gjiugh69sstav8f5iqbpb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGK-YZUSCJSxCFi39rbaDsRFFBhDLjBTQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "297920629889-4qk5m22grn5gjiugh69sstav8f5iqbpb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
